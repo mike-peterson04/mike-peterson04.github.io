@@ -1,0 +1,31 @@
+body {background-color:darkgray
+}
+nav {
+    background-color:cornflowerblue;
+    height: 30px;
+    
+}
+nav ul {
+    height:50px;
+    width:470px;
+    margin: 0 auto;
+    padding:0;
+
+}
+nav ul li {
+    list-style-type:none;
+    width:150px;
+    height:50px;
+    float:left;
+    text-align:center;
+}
+nav ul li a{
+    text-decoration:none;
+    color:black;
+    display:block;
+
+}
+li a:hover {
+
+    background-color:cadetblue
+}
