@@ -27,5 +27,20 @@ nav ul li a{
 }
 li a:hover {
 
-    background-color:cadetblue
+    background-color:cadetblue;
+}
+hr {
+    width:85%;
+}
+table, td {
+    width:80%;
+    background-color:cadetblue;
+}
+h1 {
+    text-align:center;
+
+}
+lh {
+    text-align: center;
+    text-decoration-style:double
 }
