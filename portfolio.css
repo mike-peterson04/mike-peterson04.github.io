@@ -1,10 +1,17 @@
-body{background-color:#162e92;
+body{background-color:#050b24;
     color:white;
 }
 nav {
-    background-color: #162e92;
+    background-color: #050b24;
   overflow: hidden;
     
+}
+a {
+    text-decoration: none;
+    color:rgb(180, 176, 176);
+}
+a:hover {
+    color:#0c3b50;
 }
 nav a {
     float: left;
@@ -13,20 +20,25 @@ nav a {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    margin-left:22%;
+    justify-content: space-around;
   }
 nav a:hover {
 
-    background-color:#35e867;
+    background-color:#0c3b50;
+    color:#210c50;
 }
 hr {
     width:85%;
 }
 table, td {
     width:80%;
-    background-color:#166c92;
+    background-color:#0c1950;
+    text-align:left;
 }
 h1 {
     text-align:center;
     color:#f2f2f2;
 
 }
+
