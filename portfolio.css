@@ -6,12 +6,12 @@ nav {
   overflow: hidden;
     
 }
-a {
+ a {
     text-decoration: none;
     color:rgb(180, 176, 176);
 }
 a:hover {
-    color:#0c3b50;
+    color:#0c3b50; 
 }
 nav a {
     float: left;
@@ -33,7 +33,7 @@ hr {
 }
 table, td {
     width:80%;
-    background-color:#0c1950;
+    background-color:#09123a;
     text-align:left;
 }
 h1 {
